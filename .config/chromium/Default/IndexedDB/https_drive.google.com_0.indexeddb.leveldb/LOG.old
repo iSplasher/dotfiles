@@ -1,0 +1,44 @@
+2015/12/09-12:32:53.824 552 Reusing MANIFEST /home/pewpews/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2015/12/09-12:32:53.824 552 Recovering log #46
+2015/12/09-12:32:53.892 552 Reusing old log /home/pewpews/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000046.log 
+2015/12/09-12:32:53.893 552 Delete type=2 #42
+2015/12/09-12:32:53.903 552 Delete type=2 #40
+2015/12/09-12:32:55.757 552 Current memtable full; waiting...
+2015/12/09-12:32:55.757 7071 Level-0 table #51: started
+2015/12/09-12:32:55.862 7071 Level-0 table #51: 1790909 bytes OK
+2015/12/09-12:32:55.936 7071 Delete type=0 #46
+2015/12/09-12:32:55.951 7071 Level-0 table #53: started
+2015/12/09-12:32:55.951 7071 Level-0 table #53: 0 bytes OK
+2015/12/09-12:32:56.014 7071 Delete type=0 #50
+2015/12/09-12:32:56.014 7071 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 388 : 1
+2015/12/09-12:32:56.014 7071 Compacting 1@0 + 1@1 files
+2015/12/09-12:32:56.172 7071 Generated table #54: 28 keys, 1778842 bytes
+2015/12/09-12:32:56.172 7071 Compacted 1@0 + 1@1 files => 1778842 bytes
+2015/12/09-12:32:56.237 7071 compacted to: files[ 0 1 1 0 0 0 0 ]
+2015/12/09-12:32:56.238 7071 Delete type=2 #51
+2015/12/09-12:32:56.239 7071 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 388 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2015/12/09-12:50:09.355 7071 Level-0 table #56: started
+2015/12/09-12:50:09.654 7071 Level-0 table #56: 5170658 bytes OK
+2015/12/09-12:50:09.689 7071 Delete type=2 #48
+2015/12/09-12:50:09.690 7071 Delete type=0 #52
+2015/12/09-13:20:09.298 7071 Level-0 table #58: started
+2015/12/09-13:20:09.599 7071 Level-0 table #58: 5179222 bytes OK
+2015/12/09-13:20:09.636 7071 Delete type=0 #55
+2015/12/09-13:43:31.908 7071 Level-0 table #60: started
+2015/12/09-13:43:32.141 7071 Level-0 table #60: 5230608 bytes OK
+2015/12/09-13:43:32.248 7071 Delete type=0 #57
+2015/12/09-14:16:17.845 7071 Level-0 table #62: started
+2015/12/09-14:16:18.083 7071 Level-0 table #62: 5397239 bytes OK
+2015/12/09-14:16:18.116 7071 Delete type=0 #59
+2015/12/09-14:16:18.117 7071 Compacting 4@0 + 1@1 files
+2015/12/09-14:16:18.263 7071 Generated table #63: 18 keys, 1823011 bytes
+2015/12/09-14:16:18.263 7071 Compacted 4@0 + 1@1 files => 1823011 bytes
+2015/12/09-14:16:18.305 7071 compacted to: files[ 0 1 1 0 0 0 0 ]
+2015/12/09-14:16:18.306 7071 Delete type=2 #58
+2015/12/09-14:16:18.310 7071 Delete type=2 #60
+2015/12/09-14:16:18.313 7071 Delete type=2 #54
+2015/12/09-14:16:18.314 7071 Delete type=2 #62
+2015/12/09-14:16:18.318 7071 Delete type=2 #56
+2015/12/09-14:56:17.788 7071 Level-0 table #65: started
+2015/12/09-14:56:18.065 7071 Level-0 table #65: 5256119 bytes OK
+2015/12/09-14:56:18.101 7071 Delete type=0 #61

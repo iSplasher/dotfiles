@@ -1,0 +1,461 @@
+LibreOffice PspFontCacheFile format 6
+FontCacheDirectory:1440692956:/usr/lib/libreoffice/share/fonts/truetype
+File:opens___.ttf
+2;1
+OpenSymbol
+0;OpenSymbol;0;5;5;2;65535;799;200;-1;0;1262;999;1262;999;0;0;0;8;Regular
+
+FontCacheDirectory:1421410082:/usr/share/fonts/cantarell
+File:Cantarell-Bold.otf
+2;1
+Cantarell
+0;Cantarell-Bold;0;8;5;2;65535;1053;286;339;0;1337;1339;1337;1339;0;0;0;65536;Bold
+
+File:Cantarell-Regular.otf
+2;1
+Cantarell
+0;Cantarell-Regular;0;5;5;2;65535;1058;286;344;0;1158;1344;1158;1344;0;0;0;65536;Regular
+
+FontCacheDirectory:1442329316:/usr/share/fonts/TTF
+File:DejaVuSerifCondensed-Italic.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Italic;2;5;4;2;65535;928;235;163;0;2235;1163;2235;1163;0;0;0;0;Condensed Italic
+
+File:DejaVuSerifCondensed-Bold.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Bold;0;8;4;2;65535;938;235;173;0;2368;1173;2368;1173;0;0;0;0;Condensed Bold
+
+File:GohaTibebZemen.ttf
+2;1
+Goha-Tibeb Zemen
+0;GohaTibebZemen;0;6;5;2;65535;802;189;-9;0;1223;991;1223;991;0;0;0;0;Regular
+
+File:DejaVuSerif.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif;0;5;5;2;65535;928;235;163;0;2448;1163;2448;1163;0;0;0;0;Book
+
+File:DejaVuSerif-Italic.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-Italic;2;5;5;2;65535;928;235;163;0;2483;1163;2483;1163;0;0;0;0;Italic
+
+File:DejaVuSerifCondensed-BoldItalic.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-BoldItalic;2;8;4;2;65535;938;235;173;0;2393;1173;2393;1173;0;0;0;0;Condensed Bold Italic
+
+File:DejaVuSerif-BoldItalic.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-BoldItalic;2;8;5;2;65535;938;235;173;0;2658;1173;2658;1173;0;0;0;0;Bold Italic
+
+File:DejaVuSerif-Bold.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-Bold;0;8;5;2;65535;938;235;173;0;2630;1173;2630;1173;0;0;0;0;Bold
+
+File:DejaVuSansMono-Bold.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Bold;0;8;5;1;65535;928;235;163;0;1176;1163;1176;1163;0;0;0;0;Bold
+
+File:DejaVuSans-BoldOblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-BoldOblique;1;8;5;2;65535;928;235;163;0;3064;1163;3064;1163;0;0;0;0;Bold Oblique
+
+File:DejaVuSans-ExtraLight.ttf
+2;1
+DejaVu Sans Light
+0;DejaVuSans-ExtraLight;0;2;5;2;65535;928;235;163;0;2391;1163;2391;1163;0;0;0;0;ExtraLight
+
+File:DejaVuSerifCondensed.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed;0;5;4;2;65535;928;235;163;0;2203;1163;2203;1163;0;0;0;0;Condensed
+
+File:DejaVuSansMono-Oblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Oblique;1;5;5;1;65535;928;235;163;0;1148;1163;1148;1163;0;0;0;0;Oblique
+
+File:DejaVuSans-Bold.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Bold;0;8;5;2;65535;928;235;163;0;3044;1163;3044;1163;0;0;0;0;Bold
+
+File:DejaVuSans-Oblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Oblique;1;5;5;2;65535;928;235;163;0;2674;1163;2674;1163;0;0;0;0;Oblique
+
+File:DejaVuSans.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans;0;5;5;2;65535;928;235;163;0;2700;1163;2700;1163;0;0;0;0;Book
+
+File:DejaVuSansCondensed-BoldOblique.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-BoldOblique;1;8;4;2;65535;928;235;163;0;2758;1163;2758;1163;0;0;0;0;Condensed Bold Oblique
+
+File:DejaVuSansCondensed-Oblique.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Oblique;1;5;4;2;65535;928;235;163;0;2407;1163;2407;1163;0;0;0;0;Condensed Oblique
+
+File:DejaVuSansCondensed-Bold.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Bold;0;8;4;2;65535;928;235;163;0;2739;1163;2739;1163;0;0;0;0;Condensed Bold
+
+File:DejaVuSansCondensed.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed;0;5;4;2;65535;928;235;163;0;2430;1163;2430;1163;0;0;0;0;Condensed
+
+File:DejaVuSansMono-BoldOblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-BoldOblique;1;8;5;1;65535;928;235;163;0;1232;1163;1232;1163;0;0;0;0;Bold Oblique
+
+File:DejaVuSansMono.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono;0;5;5;1;65535;928;235;163;0;1274;1163;1274;1163;0;0;0;0;Book
+
+FontCacheDirectory:1442329319:/usr/share/fonts/OTF
+File:SyrCOMUrhoyBold.otf
+2;1
+Serto Urhoy
+0;SertoUrhoyBold;0;8;5;2;65535;761;360;121;0;1170;1121;1170;1121;0;0;0;12;Bold
+
+File:SyrCOMQenNeshrin.otf
+2;1
+Estrangelo Quenneshrin
+0;EstrangeloQuenneshrin;0;5;5;2;65535;761;349;110;0;1000;1110;1000;1110;0;0;0;12;Regular
+
+File:GohaTibebZemen.otf
+2;1
+Goha-Tibeb Zemen
+0;GohaTibebZemen;0;6;5;2;65535;802;189;-9;0;1212;991;1212;991;0;0;0;65536;Regular
+
+File:SyrCOMBatnanBold.otf
+2;1
+Serto Batnan
+0;SertoBatnanBold;0;8;5;2;65535;761;316;77;0;1243;1077;1243;1077;0;0;0;12;Bold
+
+File:SyrCOMTurAbdin.otf
+2;1
+Estrangelo TurAbdin
+0;EstrangeloTurAbdin;0;5;5;2;65535;761;316;77;0;1020;1077;1020;1077;0;0;0;12;Regular
+
+File:SyrCOMJerusalem.otf
+2;1
+Serto Jerusalem
+0;SertoJerusalem;0;5;5;2;65535;761;316;77;0;1180;1077;1180;1077;0;0;0;12;Regular
+
+File:SyrCOMNisibinOutline.otf
+2;1
+Estrangelo Nisibin Outline
+0;EstrangeloNisibinOutline;0;5;5;2;65535;781;316;97;0;1010;1097;1010;1097;0;0;0;12;Regular
+
+File:SyrCOMJerusalemBold.otf
+2;1
+Serto Jerusalem
+0;SertoJerusalemBold;0;8;5;2;65535;761;316;77;0;1255;1077;1255;1077;0;0;0;12;Bold
+
+File:SyrCOMAdiabene.otf
+2;1
+East Syriac Adiabene
+0;EastSyriacAdiabene;0;5;5;2;65535;761;349;110;0;1000;1110;1000;1110;0;0;0;12;Regular
+
+File:SyrCOMCtesiphon.otf
+2;1
+East Syriac Ctesiphon
+0;EastSyriacCtesiphon;0;5;5;2;65535;761;323;84;0;1000;1084;1000;1084;0;0;0;12;Regular
+
+File:SyrCOMAntioch.otf
+2;1
+Estrangelo Antioch
+0;EstrangeloAntioch;0;5;5;2;65535;761;316;77;0;1374;1077;1374;1077;0;0;0;12;Regular
+
+File:SyrCOMTalada.otf
+2;1
+Estrangelo Talada
+0;EstrangeloTalada;0;5;5;2;65535;761;316;77;0;1795;1077;1795;1077;0;0;0;12;Regular
+
+File:SyrCOMMidyat.otf
+2;1
+Estrangelo Midyat
+0;EstrangeloMidyat;0;5;5;2;65535;761;316;77;0;1231;1077;1231;1077;0;0;0;12;Regular
+
+File:SyrCOMJerusalemOutline.otf
+2;1
+Serto Jerusalem Outline
+0;SertoJerusalemOutline;0;5;5;2;65535;781;316;97;0;1275;1097;1275;1097;0;0;0;12;Regular
+
+File:SyrCOMNisibin.otf
+2;1
+Estrangelo Nisibin
+0;EstrangeloNisibin;0;5;5;2;65535;761;316;77;0;1000;1077;1000;1077;0;0;0;12;Regular
+
+File:SyrCOMBatnan.otf
+2;1
+Serto Batnan
+0;SertoBatnan;0;5;5;2;65535;761;316;77;0;1141;1077;1141;1077;0;0;0;12;Regular
+
+File:SyrCOMJerusalemItalic.otf
+2;1
+Serto Jerusalem
+0;SertoJerusalemItalic;2;5;5;2;65535;761;316;77;0;1353;1077;1353;1077;0;0;0;12;Italic
+
+File:SyrCOMKharput.otf
+2;1
+Serto Kharput
+0;SertoKharput;0;5;5;2;65535;761;328;89;0;1132;1089;1132;1089;0;0;0;12;Regular
+
+File:SyrCOMMalankara.otf
+2;1
+Serto Malankara
+0;SertoMalankara;0;5;5;2;65535;761;355;116;0;1009;1116;1009;1116;0;0;0;12;Regular
+
+File:SyrCOMMardin.otf
+2;1
+Serto Mardin
+0;SertoMardin;0;5;5;2;65535;761;316;77;0;1146;1077;1146;1077;0;0;0;12;Regular
+
+File:SyrCOMEdessa.otf
+2;1
+Estrangelo Edessa
+0;EstrangeloEdessa;0;5;5;2;65535;700;299;-1;0;1321;999;1321;999;0;0;0;0;Regular
+
+File:SyrCOMUrhoy.otf
+2;1
+Serto Urhoy
+0;SertoUrhoy;0;5;5;2;65535;761;360;121;0;1158;1121;1158;1121;0;0;0;12;Regular
+
+File:SyrCOMMardinBold.otf
+2;1
+Serto Mardin
+0;SertoMardinBold;0;8;5;2;65535;761;316;77;0;1168;1077;1168;1077;0;0;0;12;Bold
+
+FontCacheDirectory:1443459717:/usr/share/fonts/mplus
+File:mplus-2p-regular.ttf
+2;1
+M+ 2p regular
+0;mplus-2p-regular;0;5;5;2;65535;1075;320;395;0;1523;1395;1523;1395;0;0;0;0;regular
+
+File:mplus-2p-heavy.ttf
+2;1
+M+ 2p heavy
+0;mplus-2p-heavy;0;9;5;2;65535;1075;320;395;0;1595;1395;1595;1395;0;0;0;0;heavy
+
+File:mplus-2p-bold.ttf
+2;1
+M+ 2p bold
+0;mplus-2p-bold;0;8;5;2;65535;1075;320;395;0;1567;1395;1567;1395;0;0;0;0;bold
+
+File:mplus-2p-black.ttf
+2;1
+M+ 2p black
+0;mplus-2p-black;0;10;5;2;65535;1075;320;395;0;1660;1395;1660;1395;0;0;0;0;black
+
+File:mplus-2m-regular.ttf
+2;1
+M+ 2m regular
+0;mplus-2m-regular;0;5;5;2;65535;1075;320;395;0;1000;1395;1000;1395;0;0;0;0;regular
+
+File:mplus-2m-medium.ttf
+2;1
+M+ 2m medium
+0;mplus-2m-medium;0;6;5;2;65535;1075;320;395;0;1000;1395;1000;1395;0;0;0;0;medium
+
+File:mplus-2m-light.ttf
+2;1
+M+ 2m light
+0;mplus-2m-light;0;2;5;2;65535;1075;320;395;0;1000;1395;1000;1395;0;0;0;0;light
+
+File:mplus-2m-bold.ttf
+2;1
+M+ 2m bold
+0;mplus-2m-bold;0;8;5;2;65535;1075;320;395;0;1000;1395;1000;1395;0;0;0;0;bold
+
+File:mplus-2c-thin.ttf
+2;1
+M+ 2c thin
+0;mplus-2c-thin;0;1;5;2;65535;1075;320;395;0;1500;1395;1500;1395;0;0;0;0;thin
+
+File:mplus-2p-medium.ttf
+2;1
+M+ 2p medium
+0;mplus-2p-medium;0;6;5;2;65535;1075;320;395;0;1537;1395;1537;1395;0;0;0;0;medium
+
+File:mplus-2c-regular.ttf
+2;1
+M+ 2c regular
+0;mplus-2c-regular;0;5;5;2;65535;1075;320;395;0;1517;1395;1517;1395;0;0;0;0;regular
+
+File:mplus-2c-black.ttf
+2;1
+M+ 2c black
+0;mplus-2c-black;0;10;5;2;65535;1075;320;395;0;1660;1395;1660;1395;0;0;0;0;black
+
+File:mplus-2p-light.ttf
+2;1
+M+ 2p light
+0;mplus-2p-light;0;2;5;2;65535;1075;320;395;0;1519;1395;1519;1395;0;0;0;0;light
+
+File:mplus-1p-regular.ttf
+2;1
+M+ 1p regular
+0;mplus-1p-regular;0;5;5;2;65535;1075;320;395;0;1518;1395;1518;1395;0;0;0;0;regular
+
+File:mplus-2c-medium.ttf
+2;1
+M+ 2c medium
+0;mplus-2c-medium;0;6;5;2;65535;1075;320;395;0;1537;1395;1537;1395;0;0;0;0;medium
+
+File:mplus-1m-light.ttf
+2;1
+M+ 1m light
+0;mplus-1m-light;0;2;5;2;65535;1075;320;395;0;1000;1395;1000;1395;0;0;0;0;light
+
+File:mplus-1c-thin.ttf
+2;1
+M+ 1c thin
+0;mplus-1c-thin;0;1;5;2;65535;1075;320;395;0;1495;1395;1495;1395;0;0;0;0;thin
+
+File:mplus-1m-regular.ttf
+2;1
+M+ 1m regular
+0;mplus-1m-regular;0;5;5;2;65535;1075;320;395;0;1000;1395;1000;1395;0;0;0;0;regular
+
+File:mplus-1p-thin.ttf
+2;1
+M+ 1p thin
+0;mplus-1p-thin;0;1;5;2;65535;1075;320;395;0;1510;1395;1510;1395;0;0;0;0;thin
+
+File:mplus-1p-light.ttf
+2;1
+M+ 1p light
+0;mplus-1p-light;0;2;5;2;65535;1075;320;395;0;1514;1395;1514;1395;0;0;0;0;light
+
+File:mplus-2c-heavy.ttf
+2;1
+M+ 2c heavy
+0;mplus-2c-heavy;0;9;5;2;65535;1075;320;395;0;1595;1395;1595;1395;0;0;0;0;heavy
+
+File:mplus-1c-light.ttf
+2;1
+M+ 1c light
+0;mplus-1c-light;0;2;5;2;65535;1075;320;395;0;1499;1395;1499;1395;0;0;0;0;light
+
+File:mplus-1c-black.ttf
+2;1
+M+ 1c black
+0;mplus-1c-black;0;10;5;2;65535;1075;320;395;0;1660;1395;1660;1395;0;0;0;0;black
+
+File:mplus-1mn-regular.ttf
+2;1
+M+ 1mn regular
+0;mplus-1mn-regular;0;5;5;2;65535;1075;320;395;0;1115;1395;1115;1395;0;0;0;0;regular
+
+File:mplus-1m-bold.ttf
+2;1
+M+ 1m bold
+0;mplus-1m-bold;0;8;5;2;65535;1075;320;395;0;1000;1395;1000;1395;0;0;0;0;bold
+
+File:mplus-1mn-thin.ttf
+2;1
+M+ 1mn thin
+0;mplus-1mn-thin;0;1;5;2;65535;1075;320;395;0;1105;1395;1105;1395;0;0;0;0;thin
+
+File:mplus-2c-bold.ttf
+2;1
+M+ 2c bold
+0;mplus-2c-bold;0;8;5;2;65535;1075;320;395;0;1567;1395;1567;1395;0;0;0;0;bold
+
+File:mplus-1c-heavy.ttf
+2;1
+M+ 1c heavy
+0;mplus-1c-heavy;0;9;5;2;65535;1075;320;395;0;1594;1395;1594;1395;0;0;0;0;heavy
+
+File:mplus-2p-thin.ttf
+2;1
+M+ 2p thin
+0;mplus-2p-thin;0;1;5;2;65535;1075;320;395;0;1515;1395;1515;1395;0;0;0;0;thin
+
+File:mplus-1c-regular.ttf
+2;1
+M+ 1c regular
+0;mplus-1c-regular;0;5;5;2;65535;1075;320;395;0;1512;1395;1512;1395;0;0;0;0;regular
+
+File:mplus-1c-bold.ttf
+2;1
+M+ 1c bold
+0;mplus-1c-bold;0;8;5;2;65535;1075;320;395;0;1563;1395;1563;1395;0;0;0;0;bold
+
+File:mplus-1mn-light.ttf
+2;1
+M+ 1mn light
+0;mplus-1mn-light;0;2;5;2;65535;1075;320;395;0;1110;1395;1110;1395;0;0;0;0;light
+
+File:mplus-1c-medium.ttf
+2;1
+M+ 1c medium
+0;mplus-1c-medium;0;6;5;2;65535;1075;320;395;0;1532;1395;1532;1395;0;0;0;0;medium
+
+File:mplus-2m-thin.ttf
+2;1
+M+ 2m thin
+0;mplus-2m-thin;0;1;5;2;65535;1075;320;395;0;1000;1395;1000;1395;0;0;0;0;thin
+
+File:mplus-1m-medium.ttf
+2;1
+M+ 1m medium
+0;mplus-1m-medium;0;6;5;2;65535;1075;320;395;0;1000;1395;1000;1395;0;0;0;0;medium
+
+File:mplus-2c-light.ttf
+2;1
+M+ 2c light
+0;mplus-2c-light;0;2;5;2;65535;1075;320;395;0;1504;1395;1504;1395;0;0;0;0;light
+
+File:mplus-1m-thin.ttf
+2;1
+M+ 1m thin
+0;mplus-1m-thin;0;1;5;2;65535;1075;320;395;0;1000;1395;1000;1395;0;0;0;0;thin
+
+File:mplus-1mn-bold.ttf
+2;1
+M+ 1mn bold
+0;mplus-1mn-bold;0;8;5;2;65535;1075;320;395;0;1125;1395;1125;1395;0;0;0;0;bold
+
+File:mplus-1mn-medium.ttf
+2;1
+M+ 1mn medium
+0;mplus-1mn-medium;0;6;5;2;65535;1075;320;395;0;1120;1395;1120;1395;0;0;0;0;medium
+
+File:mplus-1p-heavy.ttf
+2;1
+M+ 1p heavy
+0;mplus-1p-heavy;0;9;5;2;65535;1075;320;395;0;1594;1395;1594;1395;0;0;0;0;heavy
+
+File:mplus-1p-black.ttf
+2;1
+M+ 1p black
+0;mplus-1p-black;0;10;5;2;65535;1075;320;395;0;1660;1395;1660;1395;0;0;0;0;black
+
+File:mplus-1p-bold.ttf
+2;1
+M+ 1p bold
+0;mplus-1p-bold;0;8;5;2;65535;1075;320;395;0;1563;1395;1563;1395;0;0;0;0;bold
+
+File:mplus-1p-medium.ttf
+2;1
+M+ 1p medium
+0;mplus-1p-medium;0;6;5;2;65535;1075;320;395;0;1532;1395;1532;1395;0;0;0;0;medium
+

@@ -1,0 +1,103 @@
+{
+   "checksum": "8fe0a71e81d15dc3b937586357140319",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13088068425254415",
+            "id": "6",
+            "name": "Selvbetjening",
+            "type": "url",
+            "url": "https://selvbetjening.aarhustech.dk/login/"
+         }, {
+            "date_added": "13088068428589296",
+            "id": "7",
+            "name": "it's learning",
+            "type": "url",
+            "url": "https://aarhustech.itslearning.com/elogin/"
+         }, {
+            "date_added": "13089798432919175",
+            "id": "19",
+            "name": "Elevplan",
+            "type": "url",
+            "url": "https://www.elevplan.dk/offentlig/KaldUnilogin.aspx"
+         }, {
+            "children": [ {
+               "date_added": "13088079374667429",
+               "id": "9",
+               "name": "Move Window to Workspace Left/Right - awesome",
+               "type": "url",
+               "url": "http://awesome.naquadah.org/wiki/Move_Window_to_Workspace_Left/Right"
+            }, {
+               "date_added": "13088079374667853",
+               "id": "10",
+               "name": "Chrome Webshop - Temaer",
+               "type": "url",
+               "url": "https://chrome.google.com/webstore/category/themes?utm_source=chrome-ntp-icon"
+            }, {
+               "date_added": "13088079374668049",
+               "id": "11",
+               "name": "http://google.dk/ er ikke tilgængelig",
+               "type": "url",
+               "url": "http://google.dk/"
+            }, {
+               "date_added": "13088079374668194",
+               "id": "12",
+               "name": "Spørgsmål om Jan Sonnergaard + anmeldelse.pdf",
+               "type": "url",
+               "url": "file:///home/pewpews/Downloads/Sp%C3%B8rgsm%C3%A5l%20om%20Jan%20Sonnergaard%20+%20anmeldelse.pdf"
+            }, {
+               "date_added": "13088079374668369",
+               "id": "13",
+               "name": "Microsoft Office Online - Word, Excel og PowerPoint på internettet",
+               "type": "url",
+               "url": "https://www.office.com/0/?WT.mc_id=Office_Products_site&auth=1"
+            }, {
+               "date_added": "13088079374668559",
+               "id": "14",
+               "name": "RoboBrowser: Your friendly neighborhood web scraper — robobrowser 0.1 documentation",
+               "type": "url",
+               "url": "https://robobrowser.readthedocs.org/en/latest/readme.html"
+            }, {
+               "date_added": "13088079374668738",
+               "id": "15",
+               "name": "Edward Snowden (@Snowden) | Twitter",
+               "type": "url",
+               "url": "https://twitter.com/Snowden"
+            }, {
+               "date_added": "13088079374668890",
+               "id": "16",
+               "name": "Freedom of the Press Foundation",
+               "type": "url",
+               "url": "https://freedom.press/"
+            } ],
+            "date_added": "13088079374665641",
+            "date_modified": "13088079374668890",
+            "id": "8",
+            "name": "Ny mappe",
+            "type": "folder"
+         } ],
+         "date_added": "13088068297103081",
+         "date_modified": "13089798432919175",
+         "id": "1",
+         "name": "Bogmærkelinje",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13088068297103119",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Andre bogmærker",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13088068297103123",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Bogmærker på mobil",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

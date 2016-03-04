@@ -1,0 +1,671 @@
+{
+	"folder_history":
+	[
+		"/home/pewpews/code/c++/dojo",
+		"/home/pewpews/code/c++",
+		"/home/pewpews/programming/c++/dojo",
+		"/home/pewpews/programming/c++"
+	],
+	"last_version": 3083,
+	"last_window_id": 9,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 751.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"menu",
+						"menubar"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C++ Pro.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ Pro.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C++ Pro.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "Run",
+			"command_palette":
+			{
+				"height": 365.0,
+				"last_filter": "pages",
+				"selected_items":
+				[
+					[
+						"pages",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"key binding",
+						"Preferences: Key Bindings - User"
+					]
+				],
+				"width": 457.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/pewpews/.config/sublime-text-3/Packages/User/C++ Pro.sublime-build",
+				"/home/pewpews/programming/c++/dojo/dojo.h",
+				"/home/pewpews/programming/c++/dojo/dojo.cpp",
+				"/home/pewpews/.bash_profile",
+				"/home/pewpews/.asoundrc",
+				"/home/pewpews/.asoundrc.asoundconf",
+				"/home/pewpews/.bashrc",
+				"/home/pewpews/.Xauthority",
+				"/home/pewpews/.xinitrc",
+				"/home/pewpews/.xbindkeysrc",
+				"/home/pewpews/.ssh/id_rsa.pub",
+				"/home/pewpews/code/c++/dojo/dojo.cpp",
+				"/home/pewpews/code/c++/dojo.cpp",
+				"/home/pewpews/.config/awesome/rc.lua",
+				"/home/pewpews/.config/awesome/theme.lua",
+				"/run/user/1000/gvfs/sftp:host=isplasher.com,user=pew/home/pew/isplasher.com/isplasher/isplasher.ini",
+				"/run/user/1000/gvfs/sftp:host=isplasher.com,user=pew/home/pew/isplasher.com/isplasher/wsgi.py",
+				"/run/user/1000/gvfs/sftp:host=isplasher.com,user=pew/home/pew/isplasher.com/isplasher/isplasher.py",
+				"/run/user/1000/gvfs/sftp:host=isplasher.com,user=root/etc/nginx/sites-available/isplasher",
+				"/tmp/xa-I0sISF/pycharm.sh",
+				"/tmp/xa-I0sISF/build.txt",
+				"/home/pewpews/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/home/pewpews/.config/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/home/pewpews/happypanda/setup.py",
+				"/home/pewpews/Classes_Ship.pde",
+				"/home/pewpews/Processing/processing-3.0b6/processing",
+				"/home/pewpews/happypanda/build/exe.linux-x86_64-3.4/setup.py",
+				"/home/pewpews/Skole/Prog & IT/Classes Opgave/Classes_opgave/Classes_opgave.pde",
+				"/home/pewpews/Processing/processing-3.0b6/processing.sh",
+				"/home/pewpews/happypanda/version/happypanda.log",
+				"/var/Scripts/Ninjacode/pagespeed.py",
+				"/home/pewpews/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/usr/share/awesome/themes/default/theme.lua",
+				"/tmp/xa-ktYQJM/pacman reaaaadme",
+				"/home/pewpews/.config/awesome/battery.lua",
+				"/home/pewpews/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/tmp/xa-EaMeFY/README_E",
+				"/home/pewpews/drawterm.sh",
+				"/home/pewpews/.config/tint2/tint2rc",
+				"/home/pewpews/.config/openbox/autostart",
+				"/home/pewpews/.config/openbox/environment",
+				"/home/pewpews/.config/openbox/rc.xml",
+				"/home/pewpews/.mozilla/firefox/rmu85cqn.default/Chrome/userChrome.css",
+				"/home/pewpews/.mozilla/firefox/rmu85cqn.default/chrome/userChrome.css",
+				"/tmp/yaourt-tmp-pewpews/aur-brightd/PKGBUILD",
+				"/etc/X11/xorg.conf.d/10-monitor.conf",
+				"/home/pewpews/Downloads/happypanda_debug.log"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 92.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"tabbed",
+					"url-select",
+					"font",
+					"menubar"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 92.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/C++ Pro.sublime-build",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/programming/c++.sublime-workspace"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 101.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 400.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 97.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 613.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"def",
+						"default"
+					],
+					[
+						"menu",
+						"menubar"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/pewpews/.xinitrc",
+					"settings":
+					{
+						"buffer_size": 630,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/pewpews/abs/dwm/config.h",
+					"settings":
+					{
+						"buffer_size": 5721,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/pewpews/.config/openbox/autostart",
+					"settings":
+					{
+						"buffer_size": 9,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/C++ Pro.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/C++ Pro.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++ Pro.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/C++ Pro.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 365.0,
+				"last_filter": "pages",
+				"selected_items":
+				[
+					[
+						"pages",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"key binding",
+						"Preferences: Key Bindings - User"
+					]
+				],
+				"width": 457.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/pewpews/code/c++/dojo"
+			],
+			"file_history":
+			[
+				"/etc/makepkg.conf",
+				"/home/pewpews/abs/dwm/PKGBUILD",
+				"/home/pewpews/.bashrc",
+				"/home/pewpews/abs/dwm/dwm.install",
+				"/etc/abs.conf",
+				"/home/pewpews/code/c++/dojo/dojo.h",
+				"/home/pewpews/code/c++/dojo/dojo.cpp",
+				"/home/pewpews/.bash_profile",
+				"/home/pewpews/Downloads/unetbootin-linux64-613.bin",
+				"/home/pewpews/happypanda/version/main.py",
+				"/home/pewpews/.config/sublime-text-3/Packages/User/C++ Pro.sublime-build",
+				"/home/pewpews/programming/c++/dojo/dojo.h",
+				"/home/pewpews/programming/c++/dojo/dojo.cpp",
+				"/home/pewpews/.asoundrc",
+				"/home/pewpews/.asoundrc.asoundconf",
+				"/home/pewpews/.Xauthority",
+				"/home/pewpews/.xinitrc",
+				"/home/pewpews/.xbindkeysrc",
+				"/home/pewpews/.ssh/id_rsa.pub",
+				"/home/pewpews/code/c++/dojo.cpp",
+				"/home/pewpews/.config/awesome/rc.lua",
+				"/home/pewpews/.config/awesome/theme.lua",
+				"/run/user/1000/gvfs/sftp:host=isplasher.com,user=pew/home/pew/isplasher.com/isplasher/isplasher.ini",
+				"/run/user/1000/gvfs/sftp:host=isplasher.com,user=pew/home/pew/isplasher.com/isplasher/wsgi.py",
+				"/run/user/1000/gvfs/sftp:host=isplasher.com,user=pew/home/pew/isplasher.com/isplasher/isplasher.py",
+				"/run/user/1000/gvfs/sftp:host=isplasher.com,user=root/etc/nginx/sites-available/isplasher",
+				"/tmp/xa-I0sISF/pycharm.sh",
+				"/tmp/xa-I0sISF/build.txt",
+				"/home/pewpews/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+				"/home/pewpews/.config/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings",
+				"/home/pewpews/happypanda/setup.py",
+				"/home/pewpews/Classes_Ship.pde",
+				"/home/pewpews/Processing/processing-3.0b6/processing",
+				"/home/pewpews/happypanda/build/exe.linux-x86_64-3.4/setup.py",
+				"/home/pewpews/Skole/Prog & IT/Classes Opgave/Classes_opgave/Classes_opgave.pde",
+				"/home/pewpews/Processing/processing-3.0b6/processing.sh",
+				"/home/pewpews/happypanda/version/happypanda.log",
+				"/var/Scripts/Ninjacode/pagespeed.py",
+				"/home/pewpews/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/usr/share/awesome/themes/default/theme.lua",
+				"/tmp/xa-ktYQJM/pacman reaaaadme",
+				"/home/pewpews/.config/awesome/battery.lua",
+				"/home/pewpews/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/tmp/xa-EaMeFY/README_E",
+				"/home/pewpews/drawterm.sh",
+				"/home/pewpews/.config/tint2/tint2rc",
+				"/home/pewpews/.config/openbox/autostart",
+				"/home/pewpews/.config/openbox/environment",
+				"/home/pewpews/.config/openbox/rc.xml",
+				"/home/pewpews/.mozilla/firefox/rmu85cqn.default/Chrome/userChrome.css",
+				"/home/pewpews/.mozilla/firefox/rmu85cqn.default/chrome/userChrome.css",
+				"/tmp/yaourt-tmp-pewpews/aur-brightd/PKGBUILD",
+				"/etc/X11/xorg.conf.d/10-monitor.conf",
+				"/home/pewpews/Downloads/happypanda_debug.log"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 92.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"                      ",
+					")\n",
+					"tabbed",
+					"url-select",
+					"font",
+					"menubar"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/pewpews/code/c++/dojo"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/pewpews/.xinitrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 630,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										608,
+										608
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 89.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/pewpews/abs/dwm/config.h",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5721,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1152,
+										1152
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 84.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/pewpews/.config/openbox/autostart",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 92.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/C++ Pro.sublime-build",
+			"position": "0,0,0,0,0,0,17,749,766,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/programming/c++.sublime-workspace"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 145.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 358.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 97.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 5,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/pewpews/programming/c++.sublime-workspace"
+		]
+	}
+}

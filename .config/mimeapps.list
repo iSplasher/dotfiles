@@ -1,0 +1,29 @@
+[Added Associations]
+image/jpeg=qiv.desktop;geeqie.desktop;
+text/css=sublime_text_3.desktop;
+image/png=feh.desktop;qiv.desktop;
+application/xml=sublime_text_3.desktop;firefox.desktop;
+text/plain=sublime_text_3.desktop;
+application/x-xz-compressed-tar=xarchiver.desktop;
+text/x-lua=sublime_text_3.desktop;
+application/x-compressed-tar=xarchiver.desktop;
+application/vnd.openxmlformats-officedocument.presentationml.presentation=libreoffice-impress.desktop;
+application/pdf=qpdfview.desktop;mupdf.desktop;
+text/x-log=sublime_text_3.desktop;
+application/x-shellscript=sublime_text_3.desktop;urxvt.desktop;
+text/x-python=sublime_text_3.desktop;
+application/x-ms-dos-executable=urxvt.desktop;
+application/zip=xarchiver.desktop;
+text/html=firefox.desktop;
+application/octet-stream=userapp-sublime-K73X8X.desktop;
+text/x-c++src=sublime_text_3.desktop;
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet=libreoffice-calc.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+text/x-matlab=sublime_text_3.desktop;
+application/vnd.debian.binary-package=urxvt.desktop;flash-player-properties.desktop;
+text/x-chdr=sublime_text_3.desktop;
+text/x-csrc=sublime_text_3.desktop;
+text/x-patch=sublime_text_3.desktop;
+
+[Default Applications]
+application/octet-stream=userapp-sublime-K73X8X.desktop

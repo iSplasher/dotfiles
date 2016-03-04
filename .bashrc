@@ -7,3 +7,4 @@
 
 alias ls='ls --color=auto'
 PS1='[\u@\h \W]\$ '
+alias compiledwm='cd ~/abs/dwm; updpkgsums; makepkg -fi --noconfirm; killall dwm'

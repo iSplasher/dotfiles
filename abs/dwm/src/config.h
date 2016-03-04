@@ -1,0 +1,1 @@
+/home/pewpews/abs/dwm/config.h

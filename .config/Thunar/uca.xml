@@ -1,0 +1,91 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Åbn terminal her</name>
+	<unique-id>1442425452558877-1</unique-id>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Eksempel på en tilpasset handling</description>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>Søg</name>
+	<unique-id>1442425997884136-5</unique-id>
+	<command>catfish --path=%f</command>
+	<description>Søg filer og mapper</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>Søg i mappe</name>
+	<unique-id>1442426135113657-6</unique-id>
+	<command>catfish --path=%f%d</command>
+	<description>Søg filer og mapper i makeret mappe</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>Udpak her</name>
+	<unique-id>1442426441882573-9</unique-id>
+	<command>tar xjf %n</command>
+	<description>Udpakker arkiv her</description>
+	<patterns>*.tar.bz2;*.tbz2</patterns>
+	<other-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>Udpak her</name>
+	<unique-id>1442426432680271-8</unique-id>
+	<command>unzip %f</command>
+	<description>Updakker arkiv her</description>
+	<patterns>*.zip</patterns>
+	<other-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>Opret tar.gz fra mappe</name>
+	<unique-id>1442426500196772-10</unique-id>
+	<command>tar czvf %n.tar.gz %n</command>
+	<description>Opretter tar.gz arkiv fra makeret mappe</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name>Åbn i sublime som root</name>
+	<unique-id>1442429005913950-13</unique-id>
+	<command>gksu sublime %f</command>
+	<description>Åben fil i sublime</description>
+	<patterns>*</patterns>
+	<text-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>Åbn i sublime</name>
+	<unique-id>1442428991630507-12</unique-id>
+	<command>sublime %f</command>
+	<description>Åbn fil i sublime</description>
+	<patterns>*</patterns>
+	<other-files/>
+	<text-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>Åben sti i URxvt</name>
+	<unique-id>1443139402490971-2</unique-id>
+	<command>%f</command>
+	<description>Åbner URxvt med sti</description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+</actions>
